@@ -1,15 +1,13 @@
-Hey Hey!
+# TehMerow's Tutorials on Blender and such
 
 This is a collection of tutorials that I've created based on the knowledge I've accumulated over the years in Blender and Godot.
 
 Why not Check some of them out.
 
-Head on over to the [Wiki](https://github.com/TehMerow/Tutorials/wiki)
 
+Directory: 
 
-Quick Links:
-
-Toon Shading:
-- [Toon Shading With Cycles in Blender](https://github.com/TehMerow/Tutorials/wiki/Toon-Shading-in-Blender-Cycles)
-- [Toon Shading With Eevee in Blender](https://github.com/TehMerow/Tutorials/wiki/Toon-Shading-with-Eevee)
-- [Line Art with Blender](https://github.com/TehMerow/Tutorials/wiki/Line-Art-with-Blender)
+- Toon Shading:
+    - [Toon Shading With Cycles in Blender](./tutorials/toon_shading_with_cycles_in_blender/Toon Shading with Cycles in Blender.md)
+    - [Toon Shading With Eevee in Blender](./tutorials/toon_shading_with_eevee_in_blender/Toon Shading With Eevee in Blender.md)
+    - [Line Art with Blender](./tutorials/line_art_with_blender/line art.md)
