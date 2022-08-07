@@ -8,6 +8,6 @@ Why not Check some of them out.
 Directory: 
 
 - Toon Shading:
-    - [Toon Shading With Cycles in Blender](./tutorials/toon_shading_with_cycles_in_blender/Toon Shading with Cycles in Blender.md)
-    - [Toon Shading With Eevee in Blender](./tutorials/toon_shading_with_eevee_in_blender/Toon Shading With Eevee in Blender.md)
-    - [Line Art with Blender](./tutorials/line_art_with_blender/line art.md)
+    - [Toon Shading With Cycles in Blender](./tutorials/toon_shading_with_cycles_in_blender/Toon Shading with Cycles in Blender)
+    - [Toon Shading With Eevee in Blender](./tutorials/toon_shading_with_eevee_in_blender/Toon Shading With Eevee in Blender)
+    - [Line Art with Blender](./tutorials/line_art_with_blender/line art)
